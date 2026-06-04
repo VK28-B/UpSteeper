@@ -1,0 +1,11 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+data/*.db-shm
+data/*.db-wal
+```
